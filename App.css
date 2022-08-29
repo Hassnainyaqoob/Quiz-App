@@ -1,0 +1,38 @@
+.score-div {
+  text-align: center;
+  margin-top: 235px;
+  font-size: 40px;
+}
+
+.questionNumber {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 30px;
+  text-shadow: 4px 3px 7px black;
+}
+
+.questionAll {
+  margin-top: 90px;
+}
+
+.questionallDiv {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 750px;
+  margin-left: 270px;
+  height: 230px;
+  margin-top: 55px;
+  font-size: 25px;
+}
+
+.button_div {
+  text-align: center;
+  margin-top: 55px;
+}
+
+#buttons_all {
+  margin: 20px;
+  text-align: center;
+}
